@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CodeQuiz/static/css/main.58ad9cb9.css",
+    "main.js": "/CodeQuiz/static/js/main.76143c06.js",
+    "static/js/787.4829fc1b.chunk.js": "/CodeQuiz/static/js/787.4829fc1b.chunk.js",
+    "static/media/techRehnuma.jpeg": "/CodeQuiz/static/media/techRehnuma.a2c73730a0fd46ebe9d4.jpeg",
+    "static/media/html.jpeg": "/CodeQuiz/static/media/html.076a2e48734609f356a8.jpeg",
+    "static/media/javascript.jpg": "/CodeQuiz/static/media/javascript.7eb276c071705bbca846.jpg",
+    "static/media/CSS.jpeg": "/CodeQuiz/static/media/CSS.0abaa4ad6b8f020c6950.jpeg",
+    "static/media/java.jpeg": "/CodeQuiz/static/media/java.3ad0b31475346987363d.jpeg",
+    "index.html": "/CodeQuiz/index.html",
+    "main.58ad9cb9.css.map": "/CodeQuiz/static/css/main.58ad9cb9.css.map",
+    "main.76143c06.js.map": "/CodeQuiz/static/js/main.76143c06.js.map",
+    "787.4829fc1b.chunk.js.map": "/CodeQuiz/static/js/787.4829fc1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58ad9cb9.css",
+    "static/js/main.76143c06.js"
+  ]
+}
